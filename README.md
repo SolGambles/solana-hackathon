@@ -4,7 +4,9 @@
 
 ## What is SuperSquad?
 
-SuperSquad is a SocialFi platform that enables people to connect to Web3 based on real-life actions.
+SuperSquad is fully on-chained money pool challenge platform designed for goal enforcement.
+We grouped people on a money pool challenge platform system, aligning their goal achievement with economic incentives. 
+It is an easy and mobile accessible version of Defi.
 
 ## Table of Contents
 
