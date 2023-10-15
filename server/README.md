@@ -35,7 +35,7 @@ SuperSquad stands out by combining the concept of habit-building with a money po
   - Verification
     - Photo registration and verification
 
-## .env 설정
+## .env Configuration
 
 ### MongoDB
 
@@ -45,20 +45,20 @@ MONGODB_URL=
 
 ## Quick Start
 
-### 패키지 설치
+### Install Packages
 
 ```bash
 $ cd server
 $ npm install
 ```
 
-### 서버 실행
+### Run Server
 
 ```bash
 $ npm run start
 ```
 
-### 서버 실행 (nodemon; develop 모드)
+### Run Server (nodemon; development mode)
 
 ```bash
 $ npm run start:dev
